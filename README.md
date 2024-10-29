@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/9d4797b5-cbf8-4070-8406-7a72fc7e038b)
 
 ## Usage
 Run the WebCrawler with the below command -
